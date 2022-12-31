@@ -2,6 +2,8 @@
 
 using namespace std;
 
+int aaa;
+
 int a[1004][1004];
 
 bool IsNum(char c) {
